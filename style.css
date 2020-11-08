@@ -1,0 +1,23 @@
+body{
+    background-color: cornflowerblue;
+}
+p{
+    
+    /* margin-top: 7em;  */
+    border: 2px solid black;
+    background-color: rgb(245, 139, 0);
+    text-align: center;
+    color:rgb(4, 255, 221);
+    text-shadow:4px 4px 5px rgb(0, 0, 0);  
+    font-size: 8em;   
+}
+p:hover{
+    color: rgb(255, 238, 0);
+    font-size: 8em;
+        text-shadow: 2px 3px 2px rgb(0, 0, 0);
+}
+.i{
+    text-align: center;
+   font-style: oblique;
+   text-transform: uppercase;
+}
